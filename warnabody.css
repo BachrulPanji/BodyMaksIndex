@@ -22,7 +22,7 @@
 
         .header {
             background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-            color: white;
+            color: rgb(15, 9, 9);
             padding: 40px 30px;
             text-align: center;
         }
